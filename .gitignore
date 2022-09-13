@@ -1,9 +1,4 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-Lab1.iml
-.idea
-out
+*.iml
+/.idea/
+/out/
 
